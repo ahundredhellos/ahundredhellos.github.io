@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: content
 title: "Site Launched"
 date: 2017-05-29
 ---
