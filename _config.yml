@@ -1,2 +1,3 @@
 name: a hundred hellos
 markdown: kramdown
+permalink: /content/:year/:month/:day/:title
