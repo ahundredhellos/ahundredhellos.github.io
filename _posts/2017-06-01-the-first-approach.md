@@ -2,9 +2,10 @@
 layout: content
 title: "The First Approach"
 date: 2017-06-01
+description: approaching women with honesty, direct walking up and showing vulnerability
 ---
 
-Actual Date - May 18, 2017 (publication date is 6/1/17):
+Actual Date - May 18, 2017:
 
 I can’t believe I’m back in the game already after a 8-month hiatus. I also can’t believe how quickly everything happened in getting a contact and then a date from her (see first post under dates). Perhaps this is a kind way for me to ease into the long road ahead of me in my self-development. Or could it be the gift of latent development, where I see the results of the past few months - results that were previously indirect, now coming into light?
  
