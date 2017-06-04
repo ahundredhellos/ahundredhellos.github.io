@@ -2,6 +2,7 @@
 layout: content
 title: "First 17: Mindset, Timing, and Execution"
 date: 2017-06-04
+description: learnings from talking to women on the street, combating approach anxiety, developing confidence
 ---
 
 Sun, June 4, 2017
