@@ -3,3 +3,4 @@ markdown: kramdown
 permalink: /content/:year/:month/:day/:title
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
