@@ -2,6 +2,7 @@
 layout: content
 title: "The First Date"
 date: 2017-06-01
+description: a platonic date, it was hard to form a connection so the game is a numbers game, a deep connection is very important
 ---
 
 Actual date: 05/19/17
