@@ -5,8 +5,6 @@ date: 2017-06-04
 description: learnings from talking to women on the street, combating approach anxiety, developing confidence
 ---
 
-Sun, June 4, 2017
- 
 So far I’ve done a total of 17 approaches out of my 100 (without counting 10 ETC ones) and I’m feeling quite well adjusted to continue my journey. I’ve had my share of stumbles, awkward moments, and rejections, but I’ve also had some great conversations. Analyzing my notes from my forays, the three most important takeaways this time are the importance of mindset, timing, and execution.
  
 When I go up to a girl to speak to her, I go without expecting anything except the opportunity to engage her in conversation. I’m simply putting myself out there. Whether it’s through saying directly that I thought she was cute so I came to say hi, or striking up a conversation with a playful comment, the intent is to start an interaction - it’s up to her to take it from there. 
