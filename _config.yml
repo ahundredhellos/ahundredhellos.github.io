@@ -2,6 +2,4 @@ name: a hundred hellos
 tagline: Asian american male pickup dating
 markdown: kramdown
 permalink: /content/:year/:month/:day/:title
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+
