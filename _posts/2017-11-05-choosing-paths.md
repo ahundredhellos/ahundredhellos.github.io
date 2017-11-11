@@ -15,4 +15,6 @@ These interactions are only for fun, it doesn't matter if you don't want to be i
 
 <strong>1.5 - Explicitly conveying intent in-person </strong>
 
-It's the Tinder of real-life. Signaling to women how you are also a sexual creature, and how you can fulfull her sexual desires. Making eye contact just long enough to see the color of their eyes. 
+It's the Tinder of real-life. Signaling to women how you are also a sexual creature, and how you can fulfill her sexual desires. Making eye contact just long enough to see the color of their eyes. Speaking with a tone of strong conviction, "I want you and you want me, we both know it so why play games?". But alas, this is a temporary affair, an ephemeral, discrete affair.
+
+<strong>2 - Direct approach: 
